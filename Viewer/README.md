@@ -1,6 +1,7 @@
 Viewer
 ======
 A (VERY INEFFICIENT) 3D viewer in Haskell.
+
 Pros:
 - Uses no trigonometric functions
 
