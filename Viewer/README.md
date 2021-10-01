@@ -3,6 +3,7 @@ Viewer
 A (VERY INEFFICIENT) 3D viewer in Haskell.
 Pros:
 - Uses no trigonometric functions
+
 Cons:
 - Neither uses nor benefits from standard SDL functionalities for cameras
 - Attempts drawing all vertices, not just ones in view
